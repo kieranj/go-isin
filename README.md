@@ -1,5 +1,7 @@
 # ISIN
 
+[![Build Status](https://travis-ci.org/kieranj/go-isin.svg?branch=master)](https://travis-ci.org/kieranj/go-isin)
+
 Validate ISINs with Go
 
 ## Installation
